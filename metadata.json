@@ -1,0 +1,6 @@
+{
+  "name": "Vías Tarandacuao",
+  "description": "Prototipo de inventario vial, restauración de carreteras y participación ciudadana para Tarandacuao, Guanajuato.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

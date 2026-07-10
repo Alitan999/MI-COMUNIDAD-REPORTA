@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Clean high-weight circular grid layout -->
+    <path
+        android:fillColor="#E6FFFFFF"
+        android:pathData="M54,16C37.4,16 24,29.4 24,46C24,67.2 49,89.5 51.1,91.3C52.8,92.8 55.2,92.8 56.9,91.3C59,89.5 84,67.2 84,46C84,29.4 70.6,16 54,16ZM54,58C47.4,58 42,52.6 42,46C42,39.4 47.4,34 54,34C60.6,34 66,39.4 66,46C66,52.6 60.6,58 54,58Z" />
+    <!-- Center visual check indicator -->
+    <path
+        android:fillColor="#FFD97706"
+        android:pathData="M54,40C50.7,40 48,42.7 48,46C48,49.3 50.7,52 54,52C57.3,52 60,49.3 60,46C60,42.7 57.3,40 54,40Z" />
+</vector>
